@@ -19,7 +19,7 @@ jobs:
         run: |
           chmod +x gradlew
           ./gradlew assembleRelease
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v7
         with:
           name: DCcecuelm327-Release
           path: androbd/build/outputs/apk/release/androbd-release.apk
