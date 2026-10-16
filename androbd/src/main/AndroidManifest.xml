@@ -72,12 +72,12 @@
             android:name=".BtDeviceListActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/select_device"
-            android:exported="true"/>
+            android:exported="false"/>
         <activity
             android:name=".BleDeviceListActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/select_ble_device"
-            android:exported="true"
+            android:exported="false"
             tools:targetApi="21" />
         <activity
             android:name=".ChartActivity"
