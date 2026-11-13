@@ -1,6 +1,6 @@
 # 🚗 DCtune — Monitoreo ECU ELM327
 
-[![Android CI](https://github.com/dcg0/DCcecuelm327/actions/workflows/android.yml/badge.svg)](https://github.com/dcg0/DCcecuelm327/actions/workflows/android.yml) [![CodeQL](https://github.com/dcg0/DCcecuelm327/actions/workflows/codeql.yml/badge.svg)](https://github.com/dcg0/DCcecuelm327/actions/workflows/codeql.yml) [![Licencia: GPL-3.0](https://img.shields.io/badge/Licencia-GPL--3.0-blue.svg)](LICENSE)
+[![Android CI](https://github.com/dcg0/DCcecuelm327/actions/workflows/android.yml/badge.svg)](https://github.com/dcg0/DCcecuelm327/actions/workflows/android.yml) [![CodeQL](https://github.com/dcg0/DCcecuelm327/actions/workflows/codeql.yml/badge.svg)](https://github.com/dcg0/DCcecuelm327/actions/workflows/codeql.yml) [![Política de seguridad](https://img.shields.io/badge/Seguridad-SECURITY.md-157a53?logo=github)](SECURITY.md) [![Licencia: GPL-3.0](https://img.shields.io/badge/Licencia-GPL--3.0-blue.svg)](LICENSE)
 
 > App de diagnóstico automotriz con marca personalizada
 
